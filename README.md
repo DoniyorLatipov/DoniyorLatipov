@@ -10,7 +10,7 @@ I’ll be happy to collaborate, help with projects, or discuss ideas 🚀
 
 👨‍💻 &nbsp;**Work with:**
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,nodejs,html,css,scss,tailwind,jest,vite,webpack)](https://doniyorlatipov.github.io/)
+[![My Skills](https://skillicons.dev/icons?i=next,react,js,ts,nodejs,html,css,scss,tailwind,jest,vite,webpack,figma)](https://doniyorlatipov.github.io/)
 
 🔗 &nbsp;**Connect with me:**
 
