@@ -9,9 +9,7 @@ Full-stack developer with 3+ years of experience
 🔗 &nbsp;**Connect with me:**
 
 - <a href="https://t.me/DoniyorL_Dev">Telegram</a>
-- <a href="https://www.linkedin.com/in/doniyor-latipov-9806962b8/">LinkedIn</a>
 - <a href="mailto:doniyor.main.contact@gmail.com?subject=Personal%20Letter%20from%20GitHub">Write a Letter</a>
-- <a href="https://doniyorlatipov.github.io">Personal Website</a>
 <!--
 **DoniyorLatipov/DoniyorLatipov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
